@@ -1,0 +1,50 @@
+/*Thinner scrollbar*/
+::-webkit-scrollbar {
+  height: 6px !important;
+  width: 2px !important;
+  background-color: transparent;
+}
+
+/* Hide some headers, profile name, picture and the new playlist button */
+.HomeRoot__header,
+.RadioHubRoot__header,
+.MadeForYouRoot__header,
+.RecentlyPlayedPage__header,
+.profile.content-top-bar__profile-link,
+.LeftSidebarNewPlaylistButton__button {
+  display: none !important;
+}
+
+/* Card styles */
+.Carousel__grid {
+  width: 15vw !important;
+  max-width: 15vh;
+  overflow: visible !important;
+}
+
+.Carousel__grid > .Card {
+  background-color: #282828 !important;
+  border-radius: 10px !important;
+  overflow: hidden !important;
+}
+
+.Card__info-wrapper {
+  padding: 1vh;
+}
+
+/* Misc Tweaks */
+.glue-page-header {
+  min-height: 50px !important;
+}
+
+.section-divider-sticky-wrapper {
+  padding-top: 2rem;
+}
+
+.GlueSectionDivider {
+  padding-bottom: 1rem;
+}
+
+.glue-page-wrapper {
+  padding-top: 32px;
+}
