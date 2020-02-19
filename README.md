@@ -1,5 +1,7 @@
 # Cards
 
+A small redesign made to use with [Spicetify](https://github.com/khanhas/spicetify-cli)
+
 ## Screenshots
 
 ![](Cards.jpg)
