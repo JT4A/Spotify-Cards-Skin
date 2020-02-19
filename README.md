@@ -6,4 +6,4 @@
 
 ## More (optional)
 
-Source: [](https://github.com/JT4A/Spotify-Cards-Skin)
+Source: [github.com/JT4A/Spotify-Cards-Skin](https://github.com/JT4A/Spotify-Cards-Skin)
