@@ -1,6 +1,6 @@
 # Cards
 
-A small redesign made to use with [Spicetify](https://github.com/khanhas/spicetify-cli)
+A small redesign made to use with [Spicetify](https://github.com/khanhas/spicetify-cli), card backgrounds are added and some headers are removed.
 
 ## Screenshots
 
